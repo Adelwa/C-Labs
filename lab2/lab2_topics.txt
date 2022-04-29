@@ -1,0 +1,5 @@
+Lab goals:
+	1. C primer - continued
+	2. Understanding storage addresses, introduction to pointers
+	3.Pointers to basic data types, to structures, and to functions
+	4.Simulating object-like behavior in C
