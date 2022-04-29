@@ -1,0 +1,4 @@
+In this task we will write a program that encodes characters from the input text.
+
+encoder reads the characters from standard input and prints it
+except the uppercase (capital letters) that it replaced with small letters

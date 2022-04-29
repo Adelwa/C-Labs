@@ -1,0 +1,7 @@
+Lab1 Topics:
+	1. C primer
+	2. Parsing command-line arguments
+	3. Undestanding character (ASCII) and hexadecimal encodings
+	4. Implementing a debug mode for your program
+	5. Introduction to standard streams (stdin, stdout, stderr)
+	6. Simple stream IO library function
