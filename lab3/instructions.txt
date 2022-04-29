@@ -1,0 +1,4 @@
+In the current task, you are required to read the signatures of the viruses from the signatures file
+and to store these signatures in a dedicated linked list data structure.
+Note that you will not yet need to read the suspected file's path.
+At a later stage (task 1c) you will compare the virus signatures from the list to byte sequences from a suspected file, whose name you will read from stdin.

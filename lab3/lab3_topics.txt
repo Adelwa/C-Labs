@@ -1,0 +1,4 @@
+Lab goals:
+	1. Pointers and dynamically allocated structures and the valgrind utility
+	2. Understanding data structures: linked lists in C
+	3. Basic access to "binary" files, with application: simplified virus detection in executable files
